@@ -1,0 +1,11 @@
+{
+  "name": "hello_app_playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
+
